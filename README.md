@@ -48,5 +48,4 @@ The goal of this project is to demonstrate **cloud fundamentals**, **cost-effect
 aws-s3-portfolio/
 │
 ├── index.html
-├── style.css
-└── script.js
+
